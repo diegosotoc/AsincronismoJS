@@ -63,3 +63,6 @@ fetchData(`${API}/products`, function (error1, data1) {
 //   }
 
 // luego ejecutar: npm run callback
+
+// if(true):
+//    print("hello world")
